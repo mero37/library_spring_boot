@@ -1,2 +1,2 @@
 # library_spring_boot
-Kitap ekleme,listeleme ve arama işlemlerini yapabileceğimiz Spring Boot, Hibernate ve Thymeleaf yardımıyla yapılmış bir web uygulaması. 
+A web application made with the help of Spring Boot and Thymeleaf, where we can add, list and search books.
